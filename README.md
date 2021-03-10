@@ -2,6 +2,12 @@
 
 #### Important Rule: If a player is able to make the capture, then the jump must be made.
 
+## Additional Instructions / Controls
+### Clicking on a piece belonging to the player who's turn it is on will show the avaiable spots that the piece can move to. Subsequently clicking on one of those spots will move the piece to that spot.
+### You may click on a selected piece again to deselect it.
+### If there is one or more capture moves avaiable, you MUST select a piece that will allow for a capture event to take place.
+### Once a capture has taken place, the game will show any continuing chain capture moves. You must select one of the available continuing moves.
+
 ## Game Play
 ##### Checkers is played by two players.
 ##### Each player begins the game with 12 discs and places them on the 12 dark squares closest to him or her.
