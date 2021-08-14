@@ -1,5 +1,7 @@
 # Rules of Checkers
 
+## Game Access: checkers-80f429.netlify.app
+
 #### Important Rule: If a player is able to make the capture, then the jump must be made.
 
 ## Additional Instructions / Controls
